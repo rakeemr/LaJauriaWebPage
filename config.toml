@@ -1,6 +1,6 @@
 baseurl         = "/"
 theme           = "hugo-casper-two"
-languageCode    = "es-CR"
+languageCode    = "es-ES"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
@@ -11,29 +11,28 @@ canonifyurls    = true
   subtitle    = ""
   copyright   = "© 2018"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/la-jauria.gif"
+  description = "Este sitio pretende dar a conocer el trabajo realizado en La Jauria, además de permitir la comunicación ágil."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
   twitterName = "faketryghost"
-  fbName = "fakeghost"
+  fbName = "juguetesjauria"
   githubName = "eueung"
-  linkedinName = "eueung"
-  mediumName = ""
+  instagramLink = "lajauria_circuit_orchestra/?hl=es-la"
 
   logo = "jauria.png"
-  orgName = "EM"
+  orgName = "La Jauria"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
   showSupport = true
 
-  author = "EM"
+  author = "La Jauria"
   authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
+  authorLocation = ""
   authorWebsite = "https://eueung.github.io"
   authorDescription = "Your description here"
 
