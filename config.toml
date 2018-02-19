@@ -25,8 +25,8 @@ canonifyurls    = true
 
   logo = "jauria.png"
   orgName = "La Jauria"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https://www.lajauria.net"
+  orgDescription = ""
 
   showSupport = true
 
@@ -34,7 +34,7 @@ canonifyurls    = true
   authorAvatar = "img/ghost-icon.png"
   authorLocation = ""
   authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -45,21 +45,21 @@ canonifyurls    = true
   post = "/post/:slug/"
 
 [[menu.main]]
-  name = "Home"
+  name = "Inicio"
   url = "/"
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "Talleres"
+  url = "/talleres/"
   weight = 100
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
+  name = "Proyectos"
+  url = "/proyectos/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "Contáctanos"
+  url = "/contacto/"
   weight = 95
