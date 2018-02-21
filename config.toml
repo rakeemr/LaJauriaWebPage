@@ -31,7 +31,7 @@ canonifyurls    = true
   showSupport = true
 
   author = "La Jauria"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "la-jauria.png"
   authorLocation = ""
   authorWebsite = "https://eueung.github.io"
   authorDescription = ""

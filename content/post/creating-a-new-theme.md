@@ -1,16 +1,14 @@
 ---
-author: "Michael Henderson"
+author: "LA JAURIA"
 date: 2014-09-28
-linktitle: Creating a New Theme
+linktitle: de_la_noche_a_la_luz
 nomenu:
   main:
-    parent: tutorials
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-title: Creating a New Theme
+    parent: proyectos
+title: Enjambre 1:1 - De la noche a la luz
 weight: 10
-image: img/welcome.jpg
-authorAvatar: hugo-logo.png
+image: img/enjambre.JPG
+authorAvatar: la-jauria.png
 ---
 
 
