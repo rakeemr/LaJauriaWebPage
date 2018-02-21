@@ -11,4 +11,4 @@ type = "page"
 
 ### Medios de comunicación
 
-Puedes comunicarte vía <a href="tel:+506 7200 4067">telefónica</a> o por medio de <a href="mailto:rkmrojas@gmail.com">correo electrónico</a>.
+Puedes comunicarte vía [telefónica](tel:+506 7200 4067) o por medio de [correo electrónico.](mailto:rkmrojas@gmail.com)
